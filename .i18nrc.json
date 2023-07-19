@@ -1,0 +1,10 @@
+{
+    "prefix": "hemanta",
+    "paths": {
+      "hemanta": "."
+    },
+    "translations": [
+      "translations/ja-JP.json"
+    ]
+  }
+  

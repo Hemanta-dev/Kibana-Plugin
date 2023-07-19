@@ -1,0 +1,10 @@
+{
+  "name": "hemanta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hemanta Adhikari <adhikarihemanta932@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-toastify": "^9.1.3"
+  }
+}
